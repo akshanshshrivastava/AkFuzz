@@ -3,7 +3,7 @@
 import socket
 import sys
 
-print " prova "
+print " Hi There "
 
 
 buffer=["A"]
